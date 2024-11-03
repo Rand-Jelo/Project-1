@@ -7,3 +7,92 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+
+/* Basic Styling for the Body */
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa; 
+}
+
+h1 {
+    font-family: "Inter", sans-serif;
+}
+
+/* Header */
+header {
+    background-color: #343a40;
+    color: #ffffff;
+    padding: 0 1rem;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    box-shadow: 0 2px 2px #3a3a3a;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+}
+
+header a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* Logo Styling */
+#logo {
+    font-size: 2rem; 
+}
+
+/* Menu List */
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+    list-style-type: none;
+}
+
+/* Menu Items */
+#menu > li {
+    margin-left: 1em;
+    margin-bottom: 1em;
+    display: flex;
+    justify-content: flex-start;
+}
+
+
+/* Navbar styles with dropdown toggle */
+nav {
+    position: absolute;
+    background-color: #343a40;
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    box-shadow: 0 2px 2px #3a3a3a;
+    display: none; 
+    top: 100%; 
+}
+
+/* Nav toggle */
+#nav-toggle:checked ~ nav {
+    display: block;
+}
+
+#nav-toggle {
+    display: none;
+}
+
+/* Hamburger Menu */
+.nav-toggle-label {
+    font-size: 2rem;
+}
+
+
+#menu a {
+    padding: 0.5em 0;
+}
+
+#menu a:hover {
+    color: #ffc107;
+}
+
