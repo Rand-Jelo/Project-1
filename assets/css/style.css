@@ -40,19 +40,16 @@ header a {
     color: inherit;
 }
 
-/* Logo Styling */
 #logo {
     font-size: 2rem; 
 }
 
-/* Menu List */
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
     list-style-type: none;
 }
 
-/* Menu Items */
 #menu > li {
     margin-left: 1em;
     margin-bottom: 1em;
