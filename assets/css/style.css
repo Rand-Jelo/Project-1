@@ -188,3 +188,7 @@ nav {
     color: #6c757d;
     line-height: 1.5;
 }
+
+.project-card-link {
+    text-decoration: none;
+}
