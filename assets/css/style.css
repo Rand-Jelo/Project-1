@@ -281,3 +281,32 @@ footer h2 {
 .contact-form button:hover {
     background-color: #e0a800;
 }
+
+/* Social Links */
+.social-links {
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+    margin-top: 1.5rem;
+}
+
+.social-links a {
+    color: #ffffff;
+    font-size: 1.5rem;
+    transition: color 0.3s ease;
+}
+
+.social-links a:hover {
+    color: #ffc107;
+}
+
+/* Footer Bottom Text */
+.footer-bottom {
+    margin-top: 2rem;
+    font-size: 0.9rem;
+    color: #cccccc;
+}
+
+.footer-bottom p {
+    margin: 0.2rem 0;
+}
