@@ -317,6 +317,7 @@ footer h2 {
     min-height: 80vh;
     text-align: center;
 }
+/* Compact Footer for Secondary Page */
 .secondary-page .fixed-footer {
     position: fixed;
     bottom: 0;
@@ -324,11 +325,14 @@ footer h2 {
     width: 100%;
     background-color: #343a40;
     color: #ffffff;
-    padding: 1.5rem 1rem;
+    padding: 0.5rem 0; 
     text-align: center;
-    z-index: 10; 
+    font-size: 0.8rem;
+    line-height: 1.2;
+    z-index: 10;
 }
 
+
 .secondary-page main {
-    padding-bottom: 3rem; 
+    padding-bottom: 1.5rem;
 }
