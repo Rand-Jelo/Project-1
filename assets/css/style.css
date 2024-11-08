@@ -336,3 +336,43 @@ footer h2 {
 .secondary-page main {
     padding-bottom: 1.5rem;
 }
+
+/* Thank You Page */
+.thank-you-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+    text-align: center;
+    padding: 0 1rem;
+}
+
+
+.back-button {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    background-color: #343a40;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.back-button:hover {
+    background-color: #6c757d;
+}
+
+
+.thank-you-container h2 {
+    font-size: 2.5rem;
+    color: #343a40;
+    margin-bottom: 1rem;
+}
+
+.thank-you-container p {
+    font-size: 1.2rem;
+    color: #6c757d;
+    line-height: 1.6;
+    margin-bottom: 2rem;
+}
