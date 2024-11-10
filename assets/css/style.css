@@ -524,4 +524,40 @@ footer h2 {
         max-width: 1200px;
         margin: 0 auto;
     }
+    /* Footer */
+    .contact-form {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 1.5rem;
+        max-width: 800px;
+        margin: 0 auto;
+    }
+
+    .form-group:first-of-type {
+        grid-column: span 2; 
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 1rem;
+    }
+
+    .form-group:nth-of-type(2) {
+        grid-column: span 2;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 1rem;
+    }
+
+    textarea {
+        grid-column: span 2;
+        width: 100%;
+        height: 200px;
+        resize: vertical;
+    }
+
+    .contact-form button {
+        grid-column: span 2;
+        width: 100%;
+        padding: 0.75rem;
+        font-size: 1rem;
+    }
 }
