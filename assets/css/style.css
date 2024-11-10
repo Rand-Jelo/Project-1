@@ -202,6 +202,48 @@ nav {
     text-decoration: none;
 }
 
+/* Gallery Section */
+#gallery {
+    padding: 4rem 1rem;
+    background-color: #f8f9fa;
+    text-align: center;
+}
+
+#gallery h2 {
+    font-size: 2rem;
+    color: #343a40;
+    margin-bottom: 2rem;
+}
+
+.photo-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.photo-card {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 1.5rem;
+    text-align: center;
+}
+
+.photo-card h3 {
+    font-size: 1.5rem;
+    color: #343a40;
+    margin-bottom: 1rem;
+}
+
+.photo-card img {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+}
+
+
 /* Footer */
 footer {
     background-color: #343a40;
