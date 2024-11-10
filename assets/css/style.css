@@ -119,13 +119,7 @@ nav {
     height: 300px;
     border-radius: 12px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    transition: transform 0.3s ease;
     margin: 1rem 0;
-}
-
-/* hover effect */
-.about-image:hover {
-    transform: scale(1.05);
 }
 
 .about-text {
@@ -171,11 +165,6 @@ nav {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     padding: 1.5rem;
     text-align: left;
-    transition: transform 0.3s ease;
-}
-
-.project-card:hover {
-    transform: translateY(-5px); /* Lift effect on hover */
 }
 
 /* Image Styling */
@@ -492,10 +481,10 @@ footer h2 {
 
     /* About Me Section */
     .about-content {
-        max-width: 1000px; /* Centers and limits content width */
+        max-width: 1000px;
         margin: 0 auto;
         display: flex;
-        flex-direction: row; /* Positions image and text side by side */
+        flex-direction: row;
         align-items: center;
         gap: 2rem;
         text-align: left;
@@ -504,7 +493,35 @@ footer h2 {
     .about-image {
         width: 350px;
         height: auto;
+        transition: transform 0.3s ease;
     }
-   
-    
+    .about-image:hover {
+        transform: scale(1.05);
+    }
+  
+    /* Projects section */
+    .project-grid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 2rem;
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+
+    .project-card {
+        transition: transform 0.3s ease;
+    }
+
+    .project-card:hover {
+        transform: translateY(-5px);
+    }
+
+    /* Gallery section*/
+    .photo-grid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 2rem;
+        max-width: 1200px;
+        margin: 0 auto;
+    }
 }
