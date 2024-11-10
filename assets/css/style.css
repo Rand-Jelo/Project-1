@@ -477,7 +477,7 @@ footer h2 {
         max-width: 1200px;
         margin: 0 auto;
     }
-
+    /* Gallery section */
     .photo-grid {
         display: grid;
         grid-template-columns: 1fr 1fr;
@@ -485,4 +485,26 @@ footer h2 {
         max-width: 1200px;
         margin: 0 auto;
     }
+}
+
+/* Desktop and Above */
+@media (min-width: 1024px) {
+
+    /* About Me Section */
+    .about-content {
+        max-width: 1000px; /* Centers and limits content width */
+        margin: 0 auto;
+        display: flex;
+        flex-direction: row; /* Positions image and text side by side */
+        align-items: center;
+        gap: 2rem;
+        text-align: left;
+    }
+
+    .about-image {
+        width: 350px;
+        height: auto;
+    }
+   
+    
 }
