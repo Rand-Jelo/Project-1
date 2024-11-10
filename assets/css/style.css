@@ -419,3 +419,54 @@ footer h2 {
     line-height: 1.6;
     margin-bottom: 2rem;
 }
+
+/* Media queries */
+
+/* Tablet and Above */
+@media screen and (min-width: 768px) {
+
+    /* Header */
+    header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0 1.5rem;
+    }
+
+    nav {
+        display: flex;
+        align-items: center; 
+        position: relative;
+        width: fit-content;
+        padding-right: 1rem;
+    }
+
+    #menu {
+        display: flex;
+        gap: 0.5rem; 
+    }
+
+    #menu > li {
+        padding-left: 0.25rem;
+    }
+
+    .nav-toggle-label {
+        display: none;
+    }
+
+    #logo {
+        font-size: 1.8rem;
+        margin: 0 0.5rem;
+    }
+
+    #menu > li a {
+        font-size: 1rem;
+        padding-top: 1.5rem;
+    }
+}
+
+
+
+
+
+
