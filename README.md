@@ -26,3 +26,13 @@ This portfolio aims to showcase Rand Jelo's web development skills, projects, an
     * Use the contact form to get in touch, especially if new questions or updates about projects arise.
 
 ---
+
+## Design
+
+ * **Color Scheme**: A minimalist color scheme, primarily dark gray (#343a40) with accent colors like #ffc107 for hover effects, ensures a professional look.
+ * **Typography**: The portfolio uses "Inter" for headings and "Open Sans" for body text for readability and modern style.
+ * **Wireframes**: Wireframes for this portfolio were created using Balsamiq.
+
+    ![Wireframes](https://share.balsamiq.com/c/nKsBJwDNjWR2rKAhKVbkkc.jpg)
+
+---
