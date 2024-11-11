@@ -101,3 +101,10 @@ This portfolio aims to showcase Rand Jelo's web development skills, projects, an
 * More interactive features in the gallery.
 
 ---
+
+## Technologies Used
+
+ * **HTML5**: For the structure of the website.
+ * **CSS3**: For the styling of the website.
+
+---
