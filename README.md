@@ -108,3 +108,14 @@ This portfolio aims to showcase Rand Jelo's web development skills, projects, an
  * **CSS3**: For the styling of the website.
 
 ---
+
+## Frameworks, Libraries & Programs Used
+
+ * **Git**: Version control.
+ * **GitHub**: Repository hosting and deployment.
+ * **Google Fonts**: To import Inter and Open Sans fonts.
+ * **Font Awesome**: For social media icons.
+ * **Am I Responsive**: To preview the responsive design for this README.
+ * **Balsamiq**: Used to create wireframes for layout planning.
+
+---
