@@ -36,3 +36,60 @@ This portfolio aims to showcase Rand Jelo's web development skills, projects, an
     ![Wireframes](https://share.balsamiq.com/c/nKsBJwDNjWR2rKAhKVbkkc.jpg)
 
 ---
+
+## Features
+
+* **Responsive Design**: The portfolio is fully responsive on all devices, with separate styling for mobile, tablet, and desktop screens.
+* **Navigation Bar**: A sticky navigation bar is consistent across all pages, allowing easy access to different sections.
+* **Project and Gallery Sections**: Projects and gallery images showcase Rand’s work and highlight key skills.
+* **Contact Form**: Visitors can reach out via the contact form, which opens a "Thank You" confirmation page after submission.
+
+### Existing Features
+
+* **Header and Navigation**
+    * Contains links to About Me, Projects, Gallery, and Contact sections.
+    * Mobile-friendly navigation with a hamburger menu on smaller screens.
+
+    ![Header and Navigation](assets/readme-img/navigation-bar.png)
+
+* **About Me Section**
+    * A brief introduction to Rand Jelo's skills and experience as a web developer.
+
+    ![About Me Section](assets/readme-img/about-me-section.png)
+
+* **Projects Section**
+    * Displays various projects with descriptions and images.
+    * Provides an overview of Rand’s work and capabilities.
+
+    ![Projects Section](assets/readme-img/projects-section.png)
+
+* **Gallery Section**
+    * A collection of project-related images organized by project.
+
+    ![Gallery Section](assets/readme-img/gallery-section.png)
+
+* **Contact Form**
+    * Allows users to input their details and send a message.
+    * Includes a “Thank You” confirmation page after submission.
+
+    ![Contact Form](assets/readme-img/contact-form.png)
+
+* **Projects Page**
+    * A placeholder page indicating future project additions.
+    * Includes navigation, a main title, and a link back to the home page.
+
+    ![Projects Page](assets/readme-img/projects-page.png)
+
+* **Thank You Page**
+    * Displays a confirmation message after form submission.
+    * Includes a link to return to the homepage for a smooth user experience.
+
+    ![Thank You Page](assets/readme-img/thank-you-page.png)
+
+* **Footer**
+    * Links to social media for easy access.
+    * Copyright and attribution information.
+
+    ![Footer](assets/readme-img/footer.png)
+
+---
