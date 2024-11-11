@@ -93,3 +93,11 @@ This portfolio aims to showcase Rand Jelo's web development skills, projects, an
     ![Footer](assets/readme-img/footer.png)
 
 ---
+
+## Features Left to Implement
+
+* Additional projects and gallery images as Rand’s portfolio grows.
+* Blog or case study section detailing each project's development process.
+* More interactive features in the gallery.
+
+---
