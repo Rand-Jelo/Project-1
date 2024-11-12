@@ -429,6 +429,10 @@ footer h2 {
         width: fit-content;
         padding-right: 1rem;
     }
+    /* Removes header blocking section heading */
+    #about-me, #projects, #gallery {
+        scroll-margin-top: 80px; 
+    }
 
     #menu {
         display: flex;
