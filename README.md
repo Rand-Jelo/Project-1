@@ -8,6 +8,29 @@ This portfolio showcases Rand Jelo's work as a web developer. It features a coll
 
 ---
 
+## Table of Contents
+
+### [User Experience (UX)](#user-experience-ux)
+   * [User Stories](#user-stories)
+### [Design](#design)
+### [Features](#features)
+   * [Existing Features](#existing-features)
+### [Features Left to Implement](#features-left-to-implement)
+### [Technologies Used](#technologies-used)
+### [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
+### [Testing](#testing)
+   * [Validation Results](#validation-results)
+   * [Manual Testing](#manual-testing)
+   * [Lighthouse Report](#lighthouse-report)
+### [Deployment and Local Development](#deployment-and-local-development)
+   * [GitHub Pages](#github-pages)
+   * [Forking the GitHub Repository](#forking-the-github-repository)
+   * [Local Clone](#local-clone)
+### [Credits](#credits)
+### [Acknowledgements](#acknowledgements)
+
+---
+
 ## User Experience (UX)
 
 This portfolio aims to showcase Rand Jelo's web development skills, projects, and contact information for potential clients, collaborators, or employers.
