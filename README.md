@@ -119,3 +119,87 @@ This portfolio aims to showcase Rand Jelo's web development skills, projects, an
  * **Balsamiq**: Used to create wireframes for layout planning.
 
 ---
+
+## Testing
+
+This project was tested across various browsers and devices to ensure compatibility and responsiveness.
+
+### Validation Results
+
+* **HTML**: Validated using the [W3C Markup Validator](https://validator.w3.org/).
+* **CSS**: Validated using the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/).
+
+<details>
+<summary>index.html
+</summary>
+
+![Main Page validation result](/assets/readme-img/index-validation.png)
+</details>
+<details>
+<summary>projects.html
+</summary>
+
+![Projects Page validation result](/assets/readme-img/projects-page-validation.png)
+</details>
+<details>
+<summary>thank-you.html
+</summary>
+
+![Sign Up page validation result](/assets/readme-img/thank-you-validation.png)
+</details>
+
+<details>
+<summary>style.css
+</summary>
+
+![CSS validation result](/assets/readme-img/style-validation.png)
+</details>
+
+### Manual Testing
+
+* Navigation, form functionality, and page layout were manually tested on desktop, tablet, and mobile views.
+* Friends provided feedback on usability.
+
+### Lighthouse Report
+
+#### Desktop
+<details>
+<summary>index.html
+</summary>
+
+![Home Page lighthouse report](/assets/readme-img/main-page-analysis.png)
+</details>
+<details>
+<summary>projects.html
+</summary>
+
+![Gallery lighthouse report](/assets/readme-img/projects-page-analysis.png)
+</details>
+<details>
+<summary>thank-you.html
+</summary>
+
+![Sign Up Page lighthouse report](/assets/readme-img/thank-you-analysis.png)
+</details>
+
+#### Mobile
+<details>
+<summary>index.html
+</summary>
+
+![Home Page lighthouse report](/assets/readme-img/main-page-mobile-analysis.png)
+</details>
+<details>
+<summary>projects.html
+</summary>
+
+![Gallery lighthouse report](/assets/readme-img/projects-mobile-analysis.png)
+</details>
+<details>
+<summary>thank-you.html
+</summary>
+
+![Sign Up Page lighthouse report](/assets/readme-img/thank-you-mobile-analysis.png)
+</details>
+
+---
