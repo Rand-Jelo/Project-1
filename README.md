@@ -235,3 +235,29 @@ By forking the repository, we make a copy of the original repository on our GitH
 7. Press Enter and your local clone will be created.
 
 ---
+
+## Credits
+
+### Code
+
+* Responsive layout techniques and Flexbox concepts from [CSS Tricks](https://css-tricks.com/).
+* Grid layout patterns and form styling assistance from [MDN Web Docs](https://developer.mozilla.org/).
+* README file structure guidance from [Code Institute](https://github.com/Code-Institute-Solutions/SampleREADME).
+
+### Content
+
+* Content written by Rand Jelo.
+* Color inspiration from [Coolors](https://coolors.co/).
+
+### Media
+
+* [DALL:E](https://openai.com/index/dall-e-3/) Used to generate some custom images and visuals.
+* [Pexels](https://www.pexels.com/) Provided free stock photos used throughout the portfolio.
+* [Image Resizer](https://imageresizer.com/) Used to adjust image sizes for optimal loading and display.
+
+---
+
+## Acknowledgements
+
+* Huge thanks to my mentor, Mitko Bachvarov, for the helpful advice and feedback that kept this project on track.
+* Shoutout to the Stack Overflow community – their answers and discussions were a lifesaver for solving tricky issues along the way.
