@@ -180,8 +180,18 @@ This project was tested across various browsers and devices to ensure compatibil
 
 ### Manual Testing
 
-* Navigation, form functionality, and page layout were manually tested on desktop, tablet, and mobile views.
-* Friends provided feedback on usability.
+The following tests were conducted to ensure full functionality across pages:
+
+* **Back Button Testing**
+   * Verified that the back button on the "Projects" page redirects correctly to the main page.
+   * Confirmed that the back button on the "Thank You" page after form submission redirects back to the main page.
+
+* **Form Functionality**
+   * Tested that all form fields accept input and require completion before submission.
+   * Verified that submitting the form redirects to the "Thank You" page with a confirmation message.
+
+* **Navigation Testing**
+   * Ensured navigation links work correctly, directing to the correct sections on both tablet and desktop views without blocking section headers (excluding Contact).
 
 ### Lighthouse Report
 
