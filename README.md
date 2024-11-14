@@ -182,6 +182,10 @@ This project was tested across various browsers and devices to ensure compatibil
 
 The following tests were conducted to ensure full functionality across pages:
 
+* **Layout Testing**
+   * Verified responsive layout adjustments on mobile, tablet, and desktop views to ensure elements displayed as intended across various screen sizes.
+   * Checked that images, text, and buttons align correctly and adapt to the screen size on each device.
+
 * **Back Button Testing**
    * Verified that the back button on the "Projects" page redirects correctly to the main page.
    * Confirmed that the back button on the "Thank You" page after form submission redirects back to the main page.
